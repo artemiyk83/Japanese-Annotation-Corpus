@@ -38,10 +38,6 @@ The release workbooks contain locked annotation values only. They contain no sub
 4. Apply analytical inclusion rules explicitly, especially Count_Predicate_RD2, Counting_Status, and Predicate_Status.
 5. Report dataset version and file checksums with verification results.
 
-## Annotation and statistical policy
-
-The release implements the accepted P01-P03 decisions. The factorized CoS fields are the primary annotation standard. EF RD2 is reported as 0.89 at hundredths precision; 0.90 is treated as an internal reporting inconsistency. Strict what-you-see transitivity is primary, with lexical-valency recoding reserved for a separately documented robustness analysis.
-
 ## Citation and license
 
 Before public release, the author must add the final dissertation citation, repository URL or DOI, author details, and an explicit data license. No license is inferred by this package.
