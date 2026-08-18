@@ -4,6 +4,7 @@ type: dataset
 title: "Referential Strategies in Japanese: a Diachrony (dataset)"
 version: 1.0.0
 date-released: 2026-08-18
+license: CC-BY-4.0
 authors:
   - family-names: "Kuznetsov"
     given-names: "Artemii"
